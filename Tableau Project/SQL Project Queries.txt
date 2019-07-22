@@ -1,0 +1,14 @@
+
+---creating table from csv file.
+select * from arsenal_player_stats_2018_19 limit 5000;
+
+---Who had more than 3 assists but no more than 8 assists. 
+select * from arsenal_player_stats_2018_19 where metric = 'Assists' 
+    and stat between 3 and 8;
+
+
+-----Creating Minutes, passes, and touches table.
+select * from arsenal_player_stats_2018_19 where (stat>1000);
+
+----Creating top 5 table
+select * from arsenal_player_stats_2018_19 where rank< 6;
