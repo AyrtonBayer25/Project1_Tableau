@@ -1,0 +1,40 @@
+rank,player,nationality,metric,stat
+1,Bernd Leno, Germany,Minutes Played,2835
+2,Pierre-Emerick Aubameyang, Gabon,Minutes Played,2731
+3,Shkodran Mustafi, Germany,Minutes Played,2615
+4,Alexandre Lacazette, France,Minutes Played,2505
+5,Granit Xhaka, Switzerland,Minutes Played,2501
+6,Lucas Torreira, Uruguay,Minutes Played,2379
+7,Sokratis, Greece,Minutes Played,2199
+8,Matteo Guendouzi, France,Minutes Played,2142
+9,Alex Iwobi, Nigeria,Minutes Played,1972
+10,Sead Kolasinac, Bosnia And Herzegovina,Minutes Played,1890
+11,Nacho Monreal, Spain,Minutes Played,1861
+12,Mesut Özil, Germany,Minutes Played,1741
+13,Henrikh Mkhitaryan, Armenia,Minutes Played,1644
+14,Héctor Bellerín, Spain,Minutes Played,1533
+15,Laurent Koscielny, France,Minutes Played,1330
+16,Aaron Ramsey, Wales,Minutes Played,1328
+1,Granit Xhaka, Switzerland,Passes,2245
+2,Shkodran Mustafi, Germany,Passes,1765
+3,Matteo Guendouzi, France,Passes,1598
+4,Lucas Torreira, Uruguay,Passes,1590
+5,Sokratis, Greece,Passes,1387
+6,Nacho Monreal, Spain,Passes,1168
+7,Mesut Özil, Germany,Passes,1118
+1,Granit Xhaka, Switzerland,Touches,2784
+2,Shkodran Mustafi, Germany,Touches,2223
+3,Lucas Torreira, Uruguay,Touches,2056
+4,Matteo Guendouzi, France,Touches,1965
+5,Sokratis, Greece,Touches,1699
+6,Nacho Monreal, Spain,Touches,1580
+7,Sead Kolasinac, Bosnia And Herzegovina,Touches,1469
+8,Alex Iwobi, Nigeria,Touches,1415
+9,Mesut Özil, Germany,Touches,1384
+10,Alexandre Lacazette, France,Touches,1313
+11,Bernd Leno, Germany,Touches,1276
+12,Henrikh Mkhitaryan, Armenia,Touches,1197
+13,Héctor Bellerín, Spain,Touches,1159
+14,Pierre-Emerick Aubameyang, Gabon,Touches,1132
+15,Laurent Koscielny, France,Touches,1082
+16,Aaron Ramsey, Wales,Touches,1029
